@@ -19,7 +19,7 @@ I enjoy building scalable backend systems and full-stack web applications using 
 ## 📌 Featured Projects
 
 ### 🚗 CarDekho
-A car research platform that helps users compare vehicles based on specifications, pricing, mileage, safety ratings, and reviews.
+A car research platform that uses AI-powered recommendations to help users compare vehicles based on specifications, pricing, mileage, safety ratings, and user reviews.
 
 ### 🍔 Foodie Web
 A responsive food ordering website built with modern frontend technologies.
