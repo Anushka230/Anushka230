@@ -1,6 +1,6 @@
 # Hi, I'm Anushka 👋
 
-Backend Software Engineer | IIT (BHU) Varanasi Graduate
+Software Engineer | IIT (BHU) Varanasi Graduate
 
 I enjoy building scalable backend systems and full-stack web applications using Java, Spring Boot, REST APIs, Angular, SQL, AWS, and modern web technologies.
 
